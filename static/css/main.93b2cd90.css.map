@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.93b2cd90.css","mappings":"AAAA,QAAS,YAAa,CACtB,KAAO,SAAS,CAA8B,eAAgB,CAA5C,0BAA6C,CAC/D,MAAO,UAAU,CAAE,4BAA8B","sources":["index.css"],"sourcesContent":[".tomato {color:tomato;}\n.red  {color:red; text-shadow:0 0 5px orange; font-weight:bold;}\n.aqua {color:aqua; text-shadow: 1px 1px 5px blue;}"],"names":[],"sourceRoot":""}
